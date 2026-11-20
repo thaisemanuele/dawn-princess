@@ -1,5 +1,7 @@
 # Dawn Princess
 
+<p align="center"><img src="images/banner.png" alt="Dawn Princess" width="320"></p>
+
 A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a strand of golden light.
 
 ## Palette
