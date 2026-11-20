@@ -19,7 +19,7 @@
     "text": "#EFE6EC",
     "comment": "#958AA8",
     "keyword": "#F08DB4",
-    "func": "#D6C3F4",
+    "func": "#CBAFF0",
     "string": "#F6CCBC",
     "type": "#B98DE0",
     "special": "#F3D9B3",
@@ -44,8 +44,8 @@
     "progressBar.background": "#EFA0BE",
     "focusBorder": "#F08DB499",
     "list.highlightForeground": "#EFA0BE",
-    "editorBracketHighlight.foreground1": "#D6C3F4",
-    "editorBracketHighlight.foreground4": "#D6C3F4",
+    "editorBracketHighlight.foreground1": "#CBAFF0",
+    "editorBracketHighlight.foreground4": "#CBAFF0",
     "editorBracketMatch.border": "#C8A2E666",
     "gitDecoration.modifiedResourceForeground": "#C8A2E6",
     "gitDecoration.stageModifiedResourceForeground": "#C8A2E6",
@@ -78,7 +78,10 @@
       "fontStyle": "italic"
     },
     "JSX and HTML attribute": {
-      "foreground": "#D6C3F4"
+      "foreground": "#CBAFF0"
+    },
+    "Number": {
+      "foreground": "#F3D9B3"
     }
   },
   "semanticOverrides": {
