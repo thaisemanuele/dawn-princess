@@ -20,7 +20,7 @@
     "comment": "#958AA8",
     "keyword": "#F08DB4",
     "func": "#CBAFF0",
-    "string": "#F6CCBC",
+    "string": "#F5BFC4",
     "type": "#B98DE0",
     "special": "#F3D9B3",
     "uiTint": "#C8B6E2",
@@ -79,9 +79,6 @@
     },
     "JSX and HTML attribute": {
       "foreground": "#CBAFF0"
-    },
-    "Number": {
-      "foreground": "#F3D9B3"
     }
   },
   "semanticOverrides": {

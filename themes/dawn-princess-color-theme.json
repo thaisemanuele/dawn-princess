@@ -256,7 +256,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#f6ccbc"
+        "foreground": "#f5bfc4"
       }
     },
     {
@@ -279,7 +279,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#F3D9B3"
+        "foreground": "#b98de0"
       }
     },
     {

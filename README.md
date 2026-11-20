@@ -15,7 +15,7 @@ A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a strand
 | Comments | `#958aa8` |
 | Keywords, operators, tags | `#f08db4` |
 | Functions, keys, attributes | `#cbaff0` |
-| Strings | `#f6ccbc` |
+| Strings | `#f5bfc4` |
 | Types, numbers, cursor | `#b98de0` |
 | Rare accent (this, regex, enum members) | `#f3d9b3` |
 <!-- palette:end -->
