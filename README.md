@@ -12,11 +12,11 @@ A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a strand
 | Menus, inputs and widgets | `#2a2131` |
 | UI accent (selection, buttons, badges) | `#6b3f62` |
 | Text | `#efe6ec` |
-| Comments | `#8f87ae` |
+| Comments | `#958aa8` |
 | Keywords, operators, tags | `#f08db4` |
 | Functions, keys, attributes | `#d6c3f4` |
 | Strings | `#f6ccbc` |
-| Types, numbers, cursor | `#82a6ee` |
+| Types, numbers, cursor | `#b98de0` |
 | Rare accent (this, regex, enum members) | `#f3d9b3` |
 <!-- palette:end -->
 
