@@ -1,0 +1,40 @@
+{
+  "name": "dawn-princess",
+  "displayName": "Dawn Princess",
+  "description": "A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a strand of golden light.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "pink",
+    "lilac",
+    "purple",
+    "dawn",
+    "pastel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/dawn-princess"
+  },
+  "galleryBanner": {
+    "color": "#1b151e",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dawn Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dawn-princess-color-theme.json"
+      }
+    ]
+  }
+}
