@@ -6,6 +6,8 @@ A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a strand
 
 ## Palette
 
+![Dawn Princess palette](images/palette.png)
+
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
